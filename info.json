@@ -1,0 +1,7 @@
+{"name": "unquality",
+"version": "0.0.1",
+"title": "Unquality",
+"author": "IsaacOscar",
+"factorio_version": "2.0",
+"dependencies": ["quality", "? space-age"],
+"description": "Removes quality related things added by the quality mod."}
