@@ -1,7 +1,17 @@
-{"name": "unquality",
-"version": "0.0.1",
-"title": "Unquality",
-"author": "IsaacOscar",
-"factorio_version": "2.0",
-"dependencies": ["quality", "? space-age"],
-"description": "Removes quality related things added by the quality mod."}
+{
+  "name": "unquality-updated",
+  "version": "1.0.0",
+  "title": "Unquality: Updated",
+  "author": "IsaacOscar; FactorioMods (Factorio 2.1 port)",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.24",
+    "quality",
+    "? space-age",
+    "! unquality"
+  ],
+  "description": "Factorio 2.1 compatibility fork of unquality. Removes quality related things added by the quality mod.",
+  "migrates_from": [
+    "unquality"
+  ]
+}

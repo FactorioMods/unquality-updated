@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-11-12
+  Changes:
+    - Support Factorio 2.1 in a public derivative namespace and preserve original entity/settings identifiers.
+    - Retain native ownership and complete original runtime storage during namespace migration.
